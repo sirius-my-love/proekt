@@ -2,6 +2,7 @@ import re
 import nltk
 text = 'Для начала мы решили вручную проанализировать клиентские отзывы о банке Тинькофф. jhjfjgf'
 
+#функция cleared_list очищает текст от знаков препинания, латинских букв и прочих ненужных символов.
 
 def cleared_list(text):
     c = text.lower()
@@ -16,5 +17,5 @@ def cleared_list(text):
             res.append(k)
     return res
 
-
+#принцип работы функции можно отследить на примере предложения text - результат работы - список слов в нижнем регистре.
 print(cleared_list(text))
