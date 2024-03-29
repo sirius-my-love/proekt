@@ -3,7 +3,7 @@
 Команда разработки: 
 
 - :white_check_mark: [Kravtsova Helen (в роли Python-разработчика)](https://github.com/lenakravt)
-- :white_check_mark: [Ivanova Maria (в роли Python-разработчика)](https://github.com/theivanovamary)
+- :white_check_mark: [Ivanova Maria (в роли дизайнера и копирайтера)](https://github.com/theivanovamary)
 
 ## Описание проекта:
 Проект содержит отзывы с сайта 
