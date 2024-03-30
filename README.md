@@ -11,7 +11,9 @@
 
 В файле [cleared.ру](https://github.com/sirius-my-love/proekt/blob/main/cleared.py) производится предварительная обработка текста посредством nltk (удаление stop-слов, пунктуации, лишних символов.)
 
-В файле [stemming.ру](https://github.com/sirius-my-love/proekt/blob/main/stemming.py) происходит стемминг слов.
+В файле [stemming.ру](https://github.com/sirius-my-love/proekt/blob/main/stemming.py) происходит стемминг слов посредством библиотеки nltk.
+
+В файле [lemmatization.py](https://github.com/sirius-my-love/proekt/blob/main/lemmatization.py) происходит лемматизация слов посредством библиотеки pymystem3.
 
 С помощью word2vec создается 1000 мерный вектор и производится вычисление значений токенов.
 
