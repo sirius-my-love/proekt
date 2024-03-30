@@ -15,7 +15,9 @@
 
 В файле [lemmatization.py](https://github.com/sirius-my-love/proekt/blob/main/lemmatization.py) происходит лемматизация слов посредством библиотеки pymystem3.
 
-В файле [vectorize.py](https://github.com/sirius-my-love/proekt/blob/main/vectorize.py) 
+В файле [vectorize.py](https://github.com/sirius-my-love/proekt/blob/main/vectorize.py) провели векторизацию с помощью библиотеки Counter.
+
+В файле [cluster.ru](https://github.com/sirius-my-love/proekt/blob/main/cluster.ru) выделяются основные группы, в результате чего можно определить тему обращения пользователя.
 
 В последующем модель будет совершенсвоваться.
 ## Надеемся Вам понравится наш проект!)
