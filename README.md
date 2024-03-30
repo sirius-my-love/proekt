@@ -7,7 +7,7 @@
 
 ## Описание проекта:
 Файл [parser.ru](https://github.com/sirius-my-love/proekt/blob/main/parser.py) парсит отзывы клиентов с сайта. При этом использованы стандартные библиотеки requests и BeautifulSoup.
-В файле data.xlsx находится таблица с отзывами Тинькофф - образец результата работы парсинга.
+В файле [data.xlsx](https://github.com/sirius-my-love/proekt/blob/main/data.xlsx) находится таблица с отзывами Тинькофф - образец результата работы парсинга.
 
 В файле [cleared.ру](https://github.com/sirius-my-love/proekt/blob/main/cleared.py) производится предварительная обработка текста посредством nltk (удаление stop-слов, пунктуации, лишних символов.)
 
