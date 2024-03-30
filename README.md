@@ -15,10 +15,8 @@
 
 В файле [lemmatization.py](https://github.com/sirius-my-love/proekt/blob/main/lemmatization.py) происходит лемматизация слов посредством библиотеки pymystem3.
 
-С помощью word2vec создается 1000 мерный вектор и производится вычисление значений токенов.
+В файле [vectorize.py](https://github.com/sirius-my-love/proekt/blob/main/vectorize.py) 
 
-Далее для получения предсказания мы вычисляем среднее значение по всем векторам токенов в предложении
-Обучение классификатора настроений клиентов производится в качестве примера с помощью DecisionTreeClassifier и Xgboost. Accuracy 75% на мой взгляд неплохо.
-В последующем будет реализована модель на Pytorch
+В последующем модель будет совершенсвоваться.
 ## Надеемся Вам понравится наш проект!)
 ![Logo](https://static.theceomagazine.net/wp-content/uploads/2018/09/18094615/2018.08.13_AndrewCannington_AI-revolution-gender-biased_subbed.jpg)
