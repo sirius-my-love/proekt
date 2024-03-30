@@ -8,8 +8,6 @@
 ## Описание проекта:
 Файл [parser.ru](https://github.com/sirius-my-love/proekt/blob/main/parser.py) парсит отзывы клиентов с сайта. При этом использованы стандартные библиотеки requests и BeautifulSoup.
 
-Файл  содержит анализ отзывов клиентов, а также классификацию отзывов на основе оценки поставленной клиентом (негативная, позитивная).
-
 В файле [cleared.ру](https://github.com/sirius-my-love/proekt/blob/main/cleared.py) производится предварительная обработка текста посредством nltk (удаление stop-слов, пунктуации, лишних символов.
 
 В файле [stemming.ру](https://github.com/sirius-my-love/proekt/blob/main/stemming.py) происходит стемминг слов.
