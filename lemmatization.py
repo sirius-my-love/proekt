@@ -12,3 +12,4 @@ new_tx = []
 for i in tx:
     new_tx.append(lemmatize_function(i))
 print(new_tx)
+#Output: ['начинать\n', 'решать\n', 'вручную\n', 'проанализировать\n', 'клиентский\n', 'отзыв\n', 'банк\n']
